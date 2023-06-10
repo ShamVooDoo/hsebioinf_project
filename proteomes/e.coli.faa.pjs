@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "e.coli.faa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "proteomes\\e.coli.faa",
+  "number-of-letters": 1329980,
+  "number-of-sequences": 4298,
+  "last-updated": "2023-06-07T23:37:00",
+  "number-of-volumes": 1,
+  "bytes-total": 3105711,
+  "bytes-to-cache": 1368771,
+  "files": [
+    "e.coli.faa.pdb",
+    "e.coli.faa.phr",
+    "e.coli.faa.pin",
+    "e.coli.faa.pot",
+    "e.coli.faa.psq",
+    "e.coli.faa.ptf",
+    "e.coli.faa.pto"
+  ]
+}

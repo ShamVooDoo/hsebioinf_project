@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "ciliate.faa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "proteomes\\ciliate.faa",
+  "number-of-letters": 16921912,
+  "number-of-sequences": 26996,
+  "last-updated": "2023-06-07T23:36:00",
+  "number-of-volumes": 1,
+  "bytes-total": 22510781,
+  "bytes-to-cache": 17164985,
+  "files": [
+    "ciliate.faa.pdb",
+    "ciliate.faa.phr",
+    "ciliate.faa.pin",
+    "ciliate.faa.pot",
+    "ciliate.faa.psq",
+    "ciliate.faa.ptf",
+    "ciliate.faa.pto"
+  ]
+}

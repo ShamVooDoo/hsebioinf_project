@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "drosophila.faa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "proteomes\\drosophila.faa",
+  "number-of-letters": 20378399,
+  "number-of-sequences": 30799,
+  "last-updated": "2023-06-07T23:36:00",
+  "number-of-volumes": 1,
+  "bytes-total": 26380294,
+  "bytes-to-cache": 20655707,
+  "files": [
+    "drosophila.faa.pdb",
+    "drosophila.faa.phr",
+    "drosophila.faa.pin",
+    "drosophila.faa.pot",
+    "drosophila.faa.psq",
+    "drosophila.faa.ptf",
+    "drosophila.faa.pto"
+  ]
+}

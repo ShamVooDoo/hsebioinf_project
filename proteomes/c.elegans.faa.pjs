@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "c.elegans.faa",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "proteomes\\c.elegans.faa",
+  "number-of-letters": 13550094,
+  "number-of-sequences": 28546,
+  "last-updated": "2023-06-07T23:36:00",
+  "number-of-volumes": 1,
+  "bytes-total": 19158142,
+  "bytes-to-cache": 13807125,
+  "files": [
+    "c.elegans.faa.pdb",
+    "c.elegans.faa.phr",
+    "c.elegans.faa.pin",
+    "c.elegans.faa.pot",
+    "c.elegans.faa.psq",
+    "c.elegans.faa.ptf",
+    "c.elegans.faa.pto"
+  ]
+}
