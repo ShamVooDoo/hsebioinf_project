@@ -27,3 +27,14 @@
 Выравнивание H4
 ![image](https://github.com/ShamVooDoo/hsebioinf_project/assets/1662453/f3a2bf2d-b6f5-484d-962a-4b43e4a404f2)
 Короткие последовательности и все - копии, кроме одной. Беру одну из копий.
+
+Таблица с E-value
+![image](https://github.com/ShamVooDoo/hsebioinf_project/assets/1662453/7e0d52e2-03b6-4e40-bf5b-e1a16c0c8ee9)
+
+Таблица -log E-value
+![image](https://github.com/ShamVooDoo/hsebioinf_project/assets/1662453/f75c0755-4d52-43bf-9988-e0318d2f0947)
+
+Хитмап по логарифмированной таблице
+![image](https://github.com/ShamVooDoo/hsebioinf_project/assets/1662453/d08b99a5-d943-4781-9835-9296954be2ab)
+
+Выводы
